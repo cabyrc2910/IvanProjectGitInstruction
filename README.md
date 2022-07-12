@@ -1,2 +1,2 @@
-# IvanProjectGitInstruction
-Instructions for working with the get program
+Hello everyone
+This is my second project in Git!
