@@ -1,2 +1,2 @@
 Hello everyone
-This is my second project in Git!
+This is my second branch in Git!
